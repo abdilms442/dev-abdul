@@ -252,6 +252,7 @@
     transition: .5s;
     margin-bottom: 20px;
     text-align: center;
+    padding: 10px;
 }
 
 .services .icon:hover{
@@ -501,6 +502,23 @@ textarea{
      .skills{
         padding: 0 40px 20px;
     }
+
+    .services .icon{
+        width: 100px;
+        max-width: 100px;
+        height: 120px;
+        max-height: 120px;
+        font-size: 40px;
+    }
+
+    
+.services .icon p{
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 15px;
+    text-align: center;
+}
+
     .experience h2{
         font-size: 20px;
     }
