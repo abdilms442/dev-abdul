@@ -471,15 +471,23 @@ textarea{
 
     .about{
         flex-wrap: wrap;
-        justify-content: start;
-        padding: 20px 0;
-        margin: 0;
+        padding: 20px;
+        justify-content: space-around;
     
     }
 
+    .about-box1{
+        display: flex;
+        margin-right: 150px ;
+    }
+
+    
+.about-box2{
+    padding: 0;
+}
+
     .about-box1 img{
         width: 200px;
-        
     }
 
     .about-box2{
