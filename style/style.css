@@ -532,6 +532,9 @@ textarea{
     .contact .input-box input{
         width: 250px;
     }
+    textarea{
+        width: 250px;
+    }
 
     .address-box{
         margin-bottom: 20px;
