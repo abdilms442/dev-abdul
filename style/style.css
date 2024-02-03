@@ -503,6 +503,10 @@ textarea{
      .skills{
         padding: 0 40px 20px;
     }
+    .services{
+        flex-direction: row;
+    }
+    
 
     .services .icon{
         width: 100px;
